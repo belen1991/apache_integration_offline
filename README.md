@@ -5,7 +5,7 @@ Apache camel integration offline
 1. Go to docker folder and run
    ### docker-compose up -d
 2. Go to the root and run
-   ### mvn clean packages
+   ### mvn clean package
 4. and finally run
    ### mvn camel:run
 5. Now you can see the data into PostgreDb
