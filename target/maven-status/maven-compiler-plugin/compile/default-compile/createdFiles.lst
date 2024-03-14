@@ -1,0 +1,4 @@
+com\example\FilterBean.class
+com\example\CsvToDbRoute$CountAggregationStrategy.class
+com\example\CsvToDbRoute.class
+com\example\App.class
